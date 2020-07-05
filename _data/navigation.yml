@@ -1,0 +1,8 @@
+main:
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Submit an Idea"
+    url: https://forms.gle/e38rXYHrn9fWLFHs5
+
