@@ -18,7 +18,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
-<br /><br />
 ![header](header1.jpg)
 
 
