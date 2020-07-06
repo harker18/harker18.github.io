@@ -18,18 +18,9 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
-# ![header](header1.jpg)
+![header](header1.jpg)
 
-<header>
-  <picture>
-    <source media="(max-width: 576px)" srcset="header1.jpg">
-    <source media="(max-width: 768px)" srcset="header1.jpg">
-    <source media="(max-width: 992px)" srcset="header1.jpg">
-    <source media="(max-width: 1200px)" srcset="header1.jpg">
-    <source media="(min-width: 1201px)" srcset="header1.jpg">
-    <img src="header1.jpg">
-  </picture>
-</header>
+
 
 
 
