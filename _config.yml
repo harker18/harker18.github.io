@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Palmetto Spark"
-  avatar : "/assets/images/PSLogoSmall.png"
+  avatar : "/assets/images/LOGO.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Instagram"
