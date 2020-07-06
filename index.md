@@ -19,8 +19,8 @@ feature_row:
 ---
   
 <br /><br />
-![Your base needs you ... to submit your ideas](NEWheader.png)
-> "Give Airmen an inch...and we will return a mile!" 
+![header](header1.jpg)
+
 
 
 <br /><br />
